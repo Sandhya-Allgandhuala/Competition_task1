@@ -24,3 +24,17 @@ C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.Ass
 C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
 C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.dll
 C:\Talent-StandardTasks\Talent\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.pdb
+D:\React_project\2nd_task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.deps.json
+D:\React_project\2nd_task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.json
+D:\React_project\2nd_task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.dev.json
+D:\React_project\2nd_task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.dll
+D:\React_project\2nd_task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.pdb
+D:\React_project\2nd_task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.dll
+D:\React_project\2nd_task\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+D:\React_project\2nd_task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csprojAssemblyReference.cache
+D:\React_project\2nd_task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csproj.CoreCompileInputs.cache
+D:\React_project\2nd_task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfoInputs.cache
+D:\React_project\2nd_task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
+D:\React_project\2nd_task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csproj.CopyComplete
+D:\React_project\2nd_task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.dll
+D:\React_project\2nd_task\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.pdb

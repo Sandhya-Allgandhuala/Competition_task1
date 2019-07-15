@@ -40,6 +40,7 @@ export class ChildSingleInput extends React.Component {
             <div className="field">
                 <label>{this.props.label}</label>
                 <input
+                    readOnly={this.props.readOnly}
                     type={this.props.inputType}
                     name={this.props.name}
                     value={this.props.value}

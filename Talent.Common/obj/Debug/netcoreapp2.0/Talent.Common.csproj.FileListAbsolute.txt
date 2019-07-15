@@ -25,3 +25,11 @@ C:\Talent-Competition\Talent\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common
 C:\Talent-Competition\Talent\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
 C:\Talent-Competition\Talent\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.dll
 C:\Talent-Competition\Talent\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.pdb
+D:\React_project\2nd_task\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.deps.json
+D:\React_project\2nd_task\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.dll
+D:\React_project\2nd_task\Talent.Common\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+D:\React_project\2nd_task\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.csproj.CoreCompileInputs.cache
+D:\React_project\2nd_task\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfoInputs.cache
+D:\React_project\2nd_task\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
+D:\React_project\2nd_task\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.dll
+D:\React_project\2nd_task\Talent.Common\obj\Debug\netcoreapp2.0\Talent.Common.pdb

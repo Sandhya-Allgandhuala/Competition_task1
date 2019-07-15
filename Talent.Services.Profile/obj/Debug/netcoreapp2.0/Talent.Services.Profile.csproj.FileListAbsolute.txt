@@ -37,3 +37,17 @@ C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Tal
 C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfo.cs
 C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.dll
 C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+D:\React_project\2nd_task\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.deps.json
+D:\React_project\2nd_task\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.json
+D:\React_project\2nd_task\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.dev.json
+D:\React_project\2nd_task\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+D:\React_project\2nd_task\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+D:\React_project\2nd_task\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Common.dll
+D:\React_project\2nd_task\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+D:\React_project\2nd_task\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csprojAssemblyReference.cache
+D:\React_project\2nd_task\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csproj.CoreCompileInputs.cache
+D:\React_project\2nd_task\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfoInputs.cache
+D:\React_project\2nd_task\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfo.cs
+D:\React_project\2nd_task\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csproj.CopyComplete
+D:\React_project\2nd_task\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+D:\React_project\2nd_task\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.pdb

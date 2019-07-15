@@ -41,7 +41,7 @@ export default class CreateJob extends React.Component {
         
         this.updateStateData = this.updateStateData.bind(this);
         this.addUpdateJob = this.addUpdateJob.bind(this);
-        this.loadData = this.loadData.bind(this); 
+        this.loadData = this.loadData.bind(this);
    
         this.init = this.init.bind(this);
     };
@@ -58,6 +58,8 @@ export default class CreateJob extends React.Component {
         this.init();
         this.loadData();
     };
+
+   
 
     loadData() {
         //const root = "" 
@@ -141,7 +143,6 @@ export default class CreateJob extends React.Component {
                                     <h1>Create Job</h1>
                                 </div>
                             </div>
-
                             <div className="row">
                                 <div className="sixteen wide column">
                                     <div className="ui form">
